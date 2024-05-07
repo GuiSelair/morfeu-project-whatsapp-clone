@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pdfjs-dist": "2.0.943",
+    "pdfjs-dist": "4.2.67",
     "webpack": "3.1.0",
     "webpack-dev-server": "2.5.1"
   }
